@@ -1,8 +1,10 @@
-package main
+package fundamentals
 
 import "fmt"
 
-func main() {
+func Variables() {
+	fmt.Println("******* Variables ******")
+
 	// Value types
 
 	// Declare var and assign it latter
